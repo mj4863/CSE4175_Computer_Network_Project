@@ -136,4 +136,3 @@ g++ -o linkstate_<학번> linkstate_<학번>.cc -Wall
 
 ---
 
-**README 끝**
